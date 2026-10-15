@@ -13,3 +13,6 @@ Rozmawiaj z mieszkańcami: Uważnie słuchaj tego, co mają do powiedzenia spotk
 Kontroluj sytuację: Wszystkie najważniejsze informacje oraz aktualne kontrolki znajdziesz w czytelnym panelu na dole ekranu.
 Nie daj się zgubić: Jeśli stracisz orientację w terenie, rzuć okiem na minimapę w prawym górnym rogu, która wskaże Ci właściwą drogę.
 Ruszaj do akcji, przełam cyber-blokadę i uratuj Gliwice!
+
+GRA:
+https://drive.google.com/drive/folders/19QkYlYcz6SXe06fcRvIdfvHN-qc3ftBk?usp=sharing
